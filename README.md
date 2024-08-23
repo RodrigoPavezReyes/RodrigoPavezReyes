@@ -1,5 +1,9 @@
-## Hi there 👋,  I am Rodrigo Pavez!
+# Hi there 👋,  I am Rodrigo Pavez!
+
+##I work as a software developer and discovered that I love day-to-day code challenges, puzzles, and clean code.
+
 <!--
+
 **RodrigoPavezReyes/RodrigoPavezReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
