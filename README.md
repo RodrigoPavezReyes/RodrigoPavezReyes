@@ -1,6 +1,7 @@
 # Hi there 👋,  I am Rodrigo Pavez!
 
-##I work as a software developer and discovered that I love day-to-day code challenges, puzzles, and clean code.
+##Brief description about me
+I work as a software developer and discovered that I love day-to-day code challenges, puzzles, and clean code.
 
 <!--
 
